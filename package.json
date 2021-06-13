@@ -1,0 +1,21 @@
+{
+  "name": "range-list",
+  "version": "1.0.0",
+  "main": "src/range-list.js",
+  "author": "Weiming Zhu",
+  "dependencies": {},
+  "scripts": {
+    "start": "node src/range-list.js"
+  },
+  "keywords": [],
+  "license": "MIT",
+  "description": "a simple range list class",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zwmtrue/RangeList.git"
+  },
+  "bugs": {
+    "url": "https://github.com/zwmtrue/RangeList/issues"
+  },
+  "homepage": "https://github.com/zwmtrue/RangeList#readme"
+}
